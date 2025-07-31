@@ -24,11 +24,6 @@
 1. Copy the `Routes` folder to your WoW 3.3.5a `Interface/AddOns` directory
 2. Restart the game
 
-## Commands
-
-* `/routes` - Open addon settings
-* `/маршруты` - Open settings (Russian client)
-
 ## GitHub
 
 <https://github.com/Gariloz/Routes>
