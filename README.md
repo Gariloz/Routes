@@ -9,6 +9,7 @@
 * Minimap button for quick access
 * Russian and other localizations supported
 * Taboo regions to avoid dangerous areas
+* Professional library structure with embedded Ace3 framework
 
 ## Changes in this version
 
@@ -16,6 +17,7 @@
 * **Complete Russian localization** of all interface elements
 * **Fixed compatibility issues** with WoW 3.3.5a
 * **Improved position saving** for minimap button
+* **Enhanced addon autonomy** with embedded Ace3 libraries
 
 ## Installation
 
@@ -35,4 +37,4 @@
 
 **Original authors:** Grum, Xinhuan
 
-**Modifications and support:** Gariloz
+**Support and modifications:** Gariloz
