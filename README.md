@@ -35,4 +35,4 @@
 
 **Original authors:** Grum, Xinhuan
 
-**Modifications and support:** [Gariloz](https://github.com/Gariloz)
+**Modifications and support:** Gariloz
